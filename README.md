@@ -43,7 +43,7 @@ World Models
 
 ## Spatial & 3D World Models
 
-* **Beyond Pixel Histories: World Models with Persistent 3D State** (2026) [[Paper](https://arxiv.org/abs/2603.03482)] [[Project](https://francelico.github.io/persist.github.io/)]
+* **Beyond Pixel Histories**, "Beyond Pixel Histories: World Models with Persistent 3D State". [![arXiv](https://img.shields.io/badge/arXiv-2603.03482-b31b1b.svg)](https://arxiv.org/abs/2603.03482)
 * **Learning 3D Persistent Embodied World Models** (2025) [[Paper](https://arxiv.org/abs/2505.05495)]
 * **3D-Belief: Embodied Belief Inference via Generative 3D World Modeling** (2026) [[Paper](https://arxiv.org/abs/2605.11367)]
 * **Embody4D: A Generalist 4D World Model for Embodied AI** (2026) [[Paper](https://arxiv.org/abs/2605.01799)]
