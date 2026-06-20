@@ -43,7 +43,7 @@ World Models
 
 ## Spatial & 3D World Models
 
-* **Beyond Pixel Histories**, "Beyond Pixel Histories: World Models with Persistent 3D State". [![arXiv](https://img.shields.io/badge/arXiv-2603.03482-b31b1b.svg)](https://arxiv.org/abs/2603.03482) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://francelico.github.io/persist.github.io/)
+* **Beyond Pixel Histories**, "Beyond Pixel Histories: World Models with Persistent 3D State". [![arXiv](https://img.shields.io/badge/arXiv-2603.03482-b31b1b.svg)](https://arxiv.org/abs/2603.03482) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://francelico.github.io/persist.github.io/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/francelico/PERSIST)
 * **MindJourney**, "MindJourney: Test-Time Scaling with World Models for Spatial Reasoning". [![arXiv](https://img.shields.io/badge/arXiv-2507.12508-b31b1b.svg)](https://arxiv.org/abs/2507.12508) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umass-embodied-agi.github.io/MindJourney/) [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/UMass-Embodied-AGI/MindJourney)
 
 * **Learning 3D Persistent Embodied World Models** (2025) [[Paper](https://arxiv.org/abs/2505.05495)]
